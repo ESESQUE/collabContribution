@@ -15,7 +15,7 @@ The extension requires the installation of node.js, which can be installed from 
 
 Watch the installation guide video for more details:
 
-[![Installation Video](http://img.youtube.com/vi/XXXXX/0.jpg)](http://www.youtube.com/watch?v=XXXXX)
+[![Installation Video](https://i.ytimg.com/vi/yuxHd9tjQl0/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AHkBYAC4AOKAgwIABABGCYgXChyMA8=\u0026rs=AOn4CLD4FfTep9wpItIdNMCF87sZ5LI7CA)](https://youtu.be/yuxHd9tjQl0)
 
 ## How to Use
 
@@ -46,7 +46,7 @@ For instructors, the extension provides the following commands:
 
 Watch the usage guide video for more details:
 
-[![Usage Video](http://img.youtube.com/vi/YYYYY/0.jpg)](http://www.youtube.com/watch?v=YYYYY)
+[![Usage Video](https://i.ytimg.com/vi/HH1bPfeL6R8/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AHkBYAC4AOKAgwIABABGGUgUChBMA8=\u0026rs=AOn4CLBAJKmRY3RjzqcoWqXP93kl8SOdRg)](https://youtu.be/HH1bPfeL6R8)
 
 ## Testing out the extension
 
