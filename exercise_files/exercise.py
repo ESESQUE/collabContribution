@@ -1,6 +1,7 @@
 def add(a, b):
     # add code here
-    return
+    x = 1
+    return 
 
 if __name__ == "__main__":
     input_values = input().split()
