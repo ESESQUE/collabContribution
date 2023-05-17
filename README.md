@@ -53,7 +53,7 @@ For instructors, the extension provides the following commands:
 
 Watch the usage guide video for more details:
 
-[![Usage Video](https://i.ytimg.com/vi/HH1bPfeL6R8/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AHkBYAC4AOKAgwIABABGGUgUChBMA8=\u0026rs=AOn4CLBAJKmRY3RjzqcoWqXP93kl8SOdRg)](https://youtu.be/HH1bPfeL6R8)
+[![Usage Video](https://i.ytimg.com/vi/kvAyCoDbteM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDSS4x9YvFaN1yhk_2jY34sacBQTw)](https://youtu.be/kvAyCoDbteM)
 
 ## Testing out the extension
 
