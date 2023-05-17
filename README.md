@@ -4,7 +4,14 @@ CollabContribution is a VSCode extension that tracks the contribution of each co
 
 ## Requirements
 
-The extension requires the installation of node.js, which can be installed from the following [link](https://nodejs.org/en).
+The extension requires the installation of the following:
+* node.js, which can be installed from the following [link](https://nodejs.org/en).
+* wkhtmltopdf, which can be installed from the following [link](https://wkhtmltopdf.org/downloads.html)
+
+If the pdf report generation is not working, please install the pdfkit module using the following command:
+```
+pip install pdfkit
+```
 
 
 ## Installation
@@ -50,9 +57,9 @@ Watch the usage guide video for more details:
 
 ## Testing out the extension
 
-We have provided you with some files to test out the extension and learn how it works. The files are located in the trial_files folder. The files are as follows:
+We have provided you with some files to test out the extension and learn how it works. The files are as follows:
 * `exercise.py in exercise_files` - A python file that resembles a sample project that the students are assigned to work on. The file contains a function that the students should work on which adds two numbers together.
-* `test.json in test_case` - A json file that contains the test cases that the students code is going to be assessed against. This file resembles the test cases that the instructor provides to evaluate the students' code.
+* `test.json in trial_files` - A json file that contains the test cases that the students code is going to be assessed against. This file resembles the test cases that the instructor provides to evaluate the students' code.
 
 The idea here is that the instructor uploads an exercise_file, which the students download and work on. While working on it, the students will save milestones of the code using the provided command. Once they are done. They will submit the folder to the instructor. The instructor will then run the extension on the folder and generate a report of the students' contribution.
 
